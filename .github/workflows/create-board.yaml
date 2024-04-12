@@ -6,6 +6,6 @@ on:
 
 jobs:
   call-workflow-passing-data:
-    uses: andreika-git/hellen-one/.github/workflows/create-board.yaml@master
+    uses: chuckwagoncomputing/hellen-one/.github/workflows/create-board.yaml@kicad-8
     permissions:
       contents: write
