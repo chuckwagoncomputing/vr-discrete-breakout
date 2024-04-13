@@ -1,0 +1,88 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.1-8.0.1-1~ubuntu22.04.1*
+G04 #@! TF.CreationDate,2024-04-13T04:14:19+00:00*
+G04 #@! TF.ProjectId,vr-discrete,76722d64-6973-4637-9265-74652e6b6963,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L2,Inr*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.1-8.0.1-1~ubuntu22.04.1) date 2024-04-13 04:14:19*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10R,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11O,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12C,0.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD13R,0.250000X6.185000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD14R,0.250000X1.115000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD15R,14.275000X0.250000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD16R,15.100000X0.250000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD17R,0.250000X5.175000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.N,Net-(J1-Pin_1)*
+G04 #@! TO.C,J1*
+X2540000Y8255000D03*
+D11*
+G04 #@! TO.N,Net-(J1-Pin_2)*
+X2540000Y5715000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.N,Net-(J2-Pin_4)*
+G04 #@! TO.C,M750*
+X19730000Y10075000D03*
+G04 #@! TO.N,Net-(J2-Pin_3)*
+X19730000Y8875000D03*
+G04 #@! TO.N,Net-(J2-Pin_2)*
+X19730000Y11275000D03*
+G04 #@! TO.N,Net-(J2-Pin_1)*
+X19730000Y12475000D03*
+D13*
+G04 #@! TO.N,Net-(J2-Pin_5)*
+X5080000Y9807500D03*
+D14*
+X5080000Y3757500D03*
+D15*
+X12092500Y12775000D03*
+D16*
+X12505000Y3325000D03*
+D17*
+X19930000Y5787500D03*
+D12*
+G04 #@! TO.N,Net-(J1-Pin_1)*
+X5305000Y6015000D03*
+G04 #@! TO.N,Net-(J1-Pin_2)*
+X5305000Y5015000D03*
+G04 #@! TD*
+D10*
+G04 #@! TO.N,Net-(J2-Pin_1)*
+G04 #@! TO.C,J2*
+X22860000Y3175000D03*
+D11*
+G04 #@! TO.N,Net-(J2-Pin_2)*
+X22860000Y5715000D03*
+G04 #@! TO.N,Net-(J2-Pin_3)*
+X22860000Y8255000D03*
+G04 #@! TO.N,Net-(J2-Pin_4)*
+X22860000Y10795000D03*
+G04 #@! TO.N,Net-(J2-Pin_5)*
+X22860000Y13335000D03*
+G04 #@! TD*
+M02*
