@@ -1,0 +1,4 @@
+Designator,Mid X,Mid Y,Layer,Rotation,Ref-X(mm),Ref-Y(mm)
+J1,2.540000mm,8.255000mm,Top,0.0,2.540000mm,8.255000mm
+J2,22.860000mm,3.175000mm,Top,180.0,22.860000mm,3.175000mm
+M750,4.930000mm,3.175000mm,Top,0.0,4.930000mm,3.175000mm
